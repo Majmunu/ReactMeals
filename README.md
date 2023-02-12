@@ -4,4 +4,4 @@
 
 > 数据来源于[Firebase console (google.com)](https://console.firebase.google.com) 数据编写来源于[ChatGPT](https://chat.openai.com/chat)
 
->网站预览地址 https://splendid-duckanoo-1567ea.netlify.app/
+>网站预览地址 https://main--wangcc.netlify.app/
